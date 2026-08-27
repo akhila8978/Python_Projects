@@ -1,1 +1,9 @@
 
+Given an integer input, the objective is check whether the given integer is Positive or Negative. In order to do so we have the following method, EnrollingIn Online Math Courses
+
+Method 1: Using Brute Force
+Method 2: Using Nested if-else Statements
+Method 3: Using ternary operator
+
+
+Method 1 : '
